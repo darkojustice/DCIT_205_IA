@@ -43,6 +43,8 @@
 
 Describe your project
 
+<img src="./src//assets//just.png">
+
 ## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
