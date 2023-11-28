@@ -1,0 +1,26 @@
+.resources{
+    width:100%;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:10px;
+}
+.resources .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+.resources .box h1{
+    color: goldenrod;
+    font-style: italic;
+    margin-top: 4px;
+}
+.resources .box p{
+    line-height: 25px;
+    margin-top: -23px;
+    font-style: italic;
+    letter-spacing: 0.1px;
+}
