@@ -2,13 +2,14 @@
 export const LOGIN = "/login";
 
 // for main pages
-export const DASHBOARD = "/";
+export const HOME = "/";
 export const MAIN_LAYOUT = "/";
-export const BUSES = "/buses";
-export const DRIVERS = "/drivers";
-export const BOOKINGS = "/bookings";
-export const TRIPS = "/trips";
-export const PROFILE = "/profile";
-export const SETTINGS = "/settings";
-
- 
+export const ABOUT = "/about";
+export const TEAMS = "/teams";
+export const RESEARCH = "/research-groups";
+export const RESOURCES = "/resources";
+export const EVENTS = "/events";
+export const TIPS = "/tips-info";
+export const SOD = "/site-of-the-day";
+export const CONTACT = "/contact";
+export const FAQ = "/faq";
